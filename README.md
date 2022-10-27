@@ -1,6 +1,8 @@
-# A repository for the article *Gender stereotypical myths expressed through graphic shape and typography in children’s toy brand logos*
+# A repository for the article *Gender-stereotypical myths expressed through graphic shape and typography in toy brand logos*
 
 This repository is associated with the article *Gender stereotypical myths expressed through graphic shape and typography in children’s toy brand logos* by Christian Mosbæk Johannessen and Karen Hvitfeldt, University of Southern Denmark.
+
+[![DOI](https://zenodo.org/badge/558361207.svg)](https://zenodo.org/badge/latestdoi/558361207)
 
 ## What does this repository contain?
 This repository contains both the sample images, data, and code (the latter is in the file `analysis.nb.html`) needed to reproduce and inspect the results reported in the article. It also contains a detailed presentation of the annotation framework used for the analysis in the file `procedure.nb.html`.
