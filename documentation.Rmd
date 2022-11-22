@@ -10,7 +10,7 @@ output:
     toc_depth: 3
 bibliography: refs.bib
 ---
-This document is a companion to the research article "Gender-stereotypes expressed through graphic shape and typography in toy brand logos" (under preparation), by Christian Mosbæk Johannessen and Karen Hvidtfeldt, University of Southern Denmark.
+This document is a companion to the research article "Gender-stereotypes expressed through graphic shape and typography in toy brand logos" (under preparation), by Christian Mosbæk Johannessen, Mads Nedergaard Qwist and Karen Hvidtfeldt, University of Southern Denmark.
 
 ***
 ```{r include=FALSE}
