@@ -1,6 +1,6 @@
 # A repository for the article *Gender-stereotypical myths expressed through graphic shape and typography in toy brand logos*
 
-This repository will be associated with the article *Gender-stereotypical myths expressed through graphic shape and typography in toy brand logos* by Christian Mosbæk Johannessen and Karen Hvidtfeldt, University of Southern Denmark.
+This repository will be associated with the article *Gender-stereotypes expressed through graphic shape and typography in toy brand logos* by Christian Mosbæk Johannessen, Mads Nedergaard Qwist and Karen Hvidtfeldt, University of Southern Denmark.
 
 [![DOI](https://zenodo.org/badge/558361207.svg)](https://zenodo.org/badge/latestdoi/558361207)
 
